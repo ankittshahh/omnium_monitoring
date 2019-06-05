@@ -1,0 +1,13 @@
+   {
+      "name": "PandoraDB",
+      "type": "mysql",
+      "access": "proxy",
+      "url": "pandora-wpc-prod1.ntrs.com:3306",
+      "password": "readonly",
+      "user": "readonly",
+      "database": "pandora",
+      "basicAuth": false,
+      "isDefault": false,
+      "jsonData": {},
+      "readOnly": false
+    }
